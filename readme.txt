@@ -19,5 +19,5 @@ Included plugins:
 4.  Converter 3.0
 5.  Mime Tool 1.9
 
-git is a version  control system
-git is free software
+git is a distributed version  control system
+git is free software distributed under the GPL
